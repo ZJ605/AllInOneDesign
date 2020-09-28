@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T09:34:04.343Z" agent="5.0 (Windows)" etag="MrOiMSsYLtquzOA49rGm" version="13.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T09:36:43.553Z" agent="5.0 (Windows)" etag="3X8LFM3oF1xaSPqt4D4B" version="13.7.5" type="github" pages="3">
   <diagram id="fH-2xh8jzHFzDoGEG2FD" name="UseCaseDiagram">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,6 +76,17 @@
         <mxCell id="DICM3m_SxUhTf7FUvPOh-0" />
         <mxCell id="DICM3m_SxUhTf7FUvPOh-1" parent="DICM3m_SxUhTf7FUvPOh-0" />
         <mxCell id="aNXQLw0Tw5mrTHUWX_xZ-1" value="&lt;div align=&quot;justify&quot;&gt;Create Geometry&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;vytvoreni geometrie podle pozadavku uzivatele&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;justify&quot;&gt;Akter:&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;user&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;AI&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Podminky pro spusteni&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;musi byt zadane parametry/pozadavka geometrie&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Zakladni tok&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;1. Vytvoreni geometrie podle pozadavku&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Alternativni tok&lt;/div&gt;&lt;div&gt;Podminky pro ukonceni&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;" vertex="1" parent="DICM3m_SxUhTf7FUvPOh-1">
+          <mxGeometry x="140" y="50" width="550" height="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-IdmjgdLRrc9q0bK68GZ" name="UC_ModifyGeometry">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="06AS1zP_6wjgfNo0Z2qi-0" />
+        <mxCell id="06AS1zP_6wjgfNo0Z2qi-1" parent="06AS1zP_6wjgfNo0Z2qi-0" />
+        <mxCell id="h7q4ehcK6Y62qXHWwAHC-0" value="&lt;div align=&quot;justify&quot;&gt;Modify Geometry&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;modifikuje existujicí gemoetrii&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;justify&quot;&gt;Akter:&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;user&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Podminky pro spusteni&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;geometrie musi existovat&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Zakladni tok&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;1. modifikace geometrie podle pozadavku&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Alternativni tok&lt;/div&gt;&lt;div&gt;Podminky pro ukonceni&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;" vertex="1" parent="06AS1zP_6wjgfNo0Z2qi-1">
           <mxGeometry x="140" y="50" width="550" height="430" as="geometry" />
         </mxCell>
       </root>
