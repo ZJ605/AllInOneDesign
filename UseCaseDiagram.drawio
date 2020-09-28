@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T09:40:33.280Z" agent="5.0 (Windows)" etag="Z_LgzHaypcKVfJljeAQT" version="13.7.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-28T09:48:01.077Z" agent="5.0 (Windows)" etag="sM9H6O3OniuV6K6A-5qy" version="13.7.5" type="github" pages="6">
   <diagram id="fH-2xh8jzHFzDoGEG2FD" name="UseCaseDiagram">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,6 +98,28 @@
         <mxCell id="6JuQmq2EJKxbMrpPRZ2E-0" />
         <mxCell id="6JuQmq2EJKxbMrpPRZ2E-1" parent="6JuQmq2EJKxbMrpPRZ2E-0" />
         <mxCell id="GZ9oFxnCEuGN1Ou55Tvq-0" value="&lt;div align=&quot;justify&quot;&gt;RayTrace Geometry&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;pretrasuje existujici geometrii&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;justify&quot;&gt;Akter:&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;user&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;AI&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Podminky pro spusteni&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;musi eistovat geometrie, byt nastaveny zdroj a detektor&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Zakladni tok&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;1. Kontrola zdroje, geometrie, detekotru&lt;/div&gt;&lt;div&gt;2. Spusteni trasovani se zadanymi parametry&lt;/div&gt;&lt;div&gt;3. Ulozeni vysledku do detektoru&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Alternativni tok&lt;/div&gt;&lt;div&gt;Podminky pro ukonceni&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;" vertex="1" parent="6JuQmq2EJKxbMrpPRZ2E-1">
+          <mxGeometry x="140" y="50" width="550" height="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4w_nkE5aL3aTpUviVyD0" name="UC_Visualize Geometry">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="vbY2_rTX0gwPYYZUUxcL-0" />
+        <mxCell id="vbY2_rTX0gwPYYZUUxcL-1" parent="vbY2_rTX0gwPYYZUUxcL-0" />
+        <mxCell id="rzx1PHHoOnRP_GBSnpic-0" value="&lt;div align=&quot;justify&quot;&gt;Visualize Geometry&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;zobrazi geometrii&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;justify&quot;&gt;Akter:&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;user&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Podminky pro spusteni&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;musi eistovat geometrie a scena na kterou zobrazuji&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Zakladni tok&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;1. Kontrola pritomnosti geometrie a sceny&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Vykresleni geometrie na scenu&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Alternativni tok&lt;/div&gt;&lt;div&gt;Podminky pro ukonceni&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;" vertex="1" parent="vbY2_rTX0gwPYYZUUxcL-1">
+          <mxGeometry x="140" y="50" width="550" height="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IQCb1AZhohRqhq7Zz8Sl" name="UC_Visualize Results after RT">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="5k2mmdiFBWmyHfyPDnB4-0" />
+        <mxCell id="5k2mmdiFBWmyHfyPDnB4-1" parent="5k2mmdiFBWmyHfyPDnB4-0" />
+        <mxCell id="DB3KJa9PEAy9P1OCtJs9-0" value="&lt;div align=&quot;justify&quot;&gt;Visualize results after tracing&lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;zobrazi vysledky trasovani&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;justify&quot;&gt;Akter:&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;user&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;AI&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Podminky pro spusteni&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;musi existovat detektor s natrasovanymi paprsky a scena&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Zakladni tok&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;1. Kontrola pritomnosti detektoru s paprsky&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Vykresleni paprsku na scenu&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Alternativni tok&lt;/div&gt;&lt;div&gt;Podminky pro ukonceni&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;" vertex="1" parent="5k2mmdiFBWmyHfyPDnB4-1">
           <mxGeometry x="140" y="50" width="550" height="430" as="geometry" />
         </mxCell>
       </root>
