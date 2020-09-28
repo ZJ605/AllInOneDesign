@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T09:21:33.612Z" agent="5.0 (Windows)" etag="DqUG4InDNviMcHTwfF2A" version="13.7.5" type="github">
-  <diagram id="fH-2xh8jzHFzDoGEG2FD" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-09-28T09:32:58.382Z" agent="5.0 (Windows)" etag="clFj_LjHkcyW8WWpdkNA" version="13.7.5" type="github" pages="2">
+  <diagram id="fH-2xh8jzHFzDoGEG2FD" name="UseCaseDiagram">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -66,6 +66,17 @@
             <mxPoint x="550" y="206.5" as="sourcePoint" />
             <mxPoint x="410" y="173.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jRITcxP11G6vMtgEyvPw" name="UC_CreateGeometry">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="DICM3m_SxUhTf7FUvPOh-0" />
+        <mxCell id="DICM3m_SxUhTf7FUvPOh-1" parent="DICM3m_SxUhTf7FUvPOh-0" />
+        <mxCell id="aNXQLw0Tw5mrTHUWX_xZ-1" value="&lt;div align=&quot;justify&quot;&gt;Create Geometry&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;vytvoreni geometrie podle pozadavku uzivatele&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div align=&quot;justify&quot;&gt;Akter:&lt;/div&gt;&lt;blockquote&gt;&lt;div align=&quot;justify&quot;&gt;user&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;AI&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Podminky pro spusteni&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;musi byt zadane parametry/pozadavka geometrie&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Zakladni tok&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;1. Vytvoreni geometrie podle pozadavku&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;Alternativni tok&lt;/div&gt;&lt;div&gt;Podminky pro ukonceni&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;" vertex="1" parent="DICM3m_SxUhTf7FUvPOh-1">
+          <mxGeometry x="140" y="50" width="550" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
